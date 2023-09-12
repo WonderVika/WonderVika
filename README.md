@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WonderVika
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python3 and Django framework
+- 👀 I’m PM in Moscow company and interested in backend development
 - 📫 Reach me via email ladyvixtwix@mail.ru
 
 <!---
